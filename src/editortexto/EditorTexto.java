@@ -1,16 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package editortexto;
 
 
-
-/**
- *
- * @author FAMILIA_TOBAR
- */
 public class EditorTexto {
 
     /**
@@ -26,7 +17,6 @@ public class EditorTexto {
          
             }
         
-      // TODO code application logic here
-    
+
     
 
